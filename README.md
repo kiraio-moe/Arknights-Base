@@ -1,18 +1,16 @@
-# Arknights Resources
+# Arknights Game Resources 
+
+[Last updated on v24.2.21]
 
 ## Overview
 
 This repository contains [Arknights](https://arknights.global "Arknights") game assets such as character [spine](http://en.esotericsoftware.com/ "Spine 2D") + Spine project, UI, etc. that usable to be used in many ways.
 
-For the time being, I will only collecting character texture and spine data. Merging the base texture with alpha texture and making the Spine project will be added in the future.
-
-[Last updated on Arknights v14.0.01]
-
 Checkout my other project on collecting [Blue Archive](https://bluearchive.nexon.com/home "Visit Blue Archive official website") game assets: [Schale-Archive](https://github.com/kiraio-moe/Schale-Archive "Schale-Archive")
 
 ## How to Properly Import Character to Spine Editor
 
-- First, you **must** have Spine Editor v3.8.x because Arknights character spine is produced in Spine Editor v.3.8.99.
+- First, you **must** have Spine Editor v3.8.x because Arknights characters spine is produced in Spine Editor v.3.8.99.
 - Create a new project.
 - Delete the default skeleton in `Hierarchy` on the right.
 - Click Spine logo on top left, then select `Import Data`.
@@ -25,3 +23,4 @@ Checkout my other project on collecting [Blue Archive](https://bluearchive.nexon
 ## Disclaimer
 
 The game assets in this repository is of course property and copyright of Hypergryph.
+
